@@ -43,7 +43,7 @@ It provides a clean, responsive interface with smart validation, error handling,
 ---
 
 ## 📂 Project Structure
-
+```
 YouMusic/
 ├── backend/
 │   ├── server.js
@@ -57,8 +57,7 @@ YouMusic/
 │
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## ⚙️ Environment Variables
 
